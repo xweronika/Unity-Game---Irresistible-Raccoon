@@ -1,9 +1,9 @@
 # Unity_Game-Irresistible_Raccoon
 Game "Irresistible Raccoon" made with Unity, based on "Snake".
 
-Gameplay: https://www.youtube.com/watch?v=5tZ4K9laKhA&t=8s
+Gameplay: https://youtu.be/5tZ4K9laKhA
 
-Development: https://www.youtube.com/watch?v=DFnn59hOvlw&t=13s
+Development: https://youtu.be/DFnn59hOvlw
 
 
 ![1](https://user-images.githubusercontent.com/44413511/83685018-3f3a4300-a5e8-11ea-8b0b-2cd6c5e450f6.png)
